@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body bgcolor=skyblue>
+        <p class = vvs>Pounds to grams convertor</p>
+     <p class=pounds>
+        <lable>Pounds</lable>
+        <input id="inputPounds" type="number" placeholder="eg:1"
+      oninput="weightConverter(this.value)" onchange="weightConverter(this.value)">
+     </p>
+    <p class=grams>Grams : <span id="outputGrams"></span><br></p>
+    <p><br></p>
+    <p><br></p>
+    <p class=end>-thank you</p>
+    
+    </body>
+</html>
