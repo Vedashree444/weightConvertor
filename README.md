@@ -1,2 +1,2 @@
 # weightConvertor
-Its a simple java script which converts. 
+Its a simple java script which can convert weight. 
